@@ -1,0 +1,62 @@
+[
+  {
+    "id": "guide-bulb",
+    "duration": "0:45",
+    "category": "home",
+    "thumbnail": "https://images.unsplash.com/photo-1550985616-10810253b84d?auto=format&fit=crop&w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mn": {
+      "title": "Ухаалаг RGB чийдэнг Wi-Fi-д 30 секундэд холбох заавар",
+      "steps": "1. Чийдэнгээ 3 удаа асааж унтраана. 2. SmartLife апп нээж төхөөрөмж нэмнэ. 3. Өнгө болон цагийн хуваариа тохируулна."
+    },
+    "en": {
+      "title": "How to Pair Smart RGB Bulb to Wi-Fi in 30 Seconds",
+      "steps": "1. Toggle switch on/off 3 times until blinking. 2. Open SmartLife app and tap Add Device. 3. Customize colors & schedules."
+    }
+  },
+  {
+    "id": "guide-curtain",
+    "duration": "1:15",
+    "category": "home",
+    "thumbnail": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mn": {
+      "title": "Автомат хөшигний моторыг багажгүйгээр суурилуулах",
+      "steps": "1. Хөшигний зам дээр дэгээг өлгөнө. 2. Моторыг түгжинэ. 3. Апп дээрээс нээгдэх, хаагдах хязгаарыг тохируулна."
+    },
+    "en": {
+      "title": "Tool-Free Installation of Smart Curtain Robot",
+      "steps": "1. Hang the hooks onto your curtain track. 2. Snap the motor unit into place. 3. Calibrate open/close limits in the app."
+    }
+  },
+  {
+    "id": "guide-dashcam",
+    "duration": "1:30",
+    "category": "car",
+    "thumbnail": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mn": {
+      "title": "4K Dashcam камерыг утсандаа холбож бичлэг татах",
+      "steps": "1. Камерын Wi-Fi товчийг дарна. 2. Утасны Wi-Fi цэснээс холбогдоно. 3. Апп дотроос шууд үзэж татаж авна."
+    },
+    "en": {
+      "title": "Connecting 4K Dashcam to Your Phone via Wi-Fi",
+      "steps": "1. Press the Wi-Fi button on the dashcam. 2. Connect via phone Wi-Fi settings. 3. Preview and download clips instantly."
+    }
+  },
+  {
+    "id": "guide-hud",
+    "duration": "0:55",
+    "category": "car",
+    "thumbnail": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=600&q=80",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "mn": {
+      "title": "OBD2 HUD дэлгэцийг машинд залгаж тохируулах",
+      "steps": "1. Жолооны хүрдний доорх OBD2 залгуурт кабелийг залгана. 2. Тусгал ойлгогч хальсыг шилэнд наана."
+    },
+    "en": {
+      "title": "Plug & Play OBD2 HUD Windshield Setup",
+      "steps": "1. Plug the cable into your car's OBD2 port under the dash. 2. Place the reflective film on the windshield."
+    }
+  }
+]
