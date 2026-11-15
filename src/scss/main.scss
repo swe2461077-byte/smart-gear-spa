@@ -1,0 +1,62 @@
+@use "sass:color";
+
+$primaryColor: #2563eb;
+$primaryColorDark: color.scale($primaryColor, $lightness: -15%);
+$secondaryColor: #f97316;
+$secondaryColorDark: color.scale($secondaryColor, $lightness: -15%);
+
+@import "../../node_modules/bulma/bulma";
+
+:root {
+  --bulma-primary-h: 221deg;
+  --bulma-primary-s: 83%;
+  --bulma-primary-l: 53%;
+}
+
+.button.is-primary {
+  background-color: $primaryColor;
+  border-color: $primaryColor;
+  color: white;
+}
+
+.button.is-primary:hover {
+  background-color: $primaryColorDark;
+  border-color: $primaryColorDark;
+}
+
+.navbar-brand a {
+  p {
+    color: $primaryColor;
+    font-size: 1rem;
+  }
+  span {
+    color: $secondaryColor;
+  }
+}
+
+.navbar-end a {
+  color: $secondaryColor;
+  font-weight: bold;
+}
+
+.app-sticky {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #f8fafc;
+}
+
+.app-shadow {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.navbar-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.app-top-navbar-right {
+  flex-grow: 1;
+  justify-content: flex-end;
+}
