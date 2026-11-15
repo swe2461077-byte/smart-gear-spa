@@ -1,0 +1,130 @@
+[
+  {
+    "id": "smart-bulb-rgb",
+    "category": "home",
+    "price": 45000,
+    "image": "https://images.unsplash.com/photo-1550985616-10810253b84d?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Ухаалаг RGB LED чийдэн (Wi-Fi)",
+      "shortDesc": "Гар утас болон дуу хоолойгоор 16 сая өнгөөр удирдах ухаалаг гэрэл.",
+      "specs": "Чадал: 9W | Холболт: Wi-Fi 2.4GHz | Дэмжих систем: iOS, Android, Alexa, Google Home"
+    },
+    "en": {
+      "name": "Smart RGB LED Bulb (Wi-Fi)",
+      "shortDesc": "Control 16 million colors via smartphone app or voice assistants.",
+      "specs": "Power: 9W | Connectivity: Wi-Fi 2.4GHz | Support: iOS, Android, Alexa, Google Home"
+    }
+  },
+  {
+    "id": "smart-plug-meter",
+    "category": "home",
+    "price": 38000,
+    "image": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Цахилгаан хэмжигчтэй ухаалаг залгуур",
+      "shortDesc": "Гэрийн цахилгаан хэрэгслийг алсаас унтрааж, эрчим хүчний зарцуулалтыг хянана.",
+      "specs": "Хүчин чадал: 16A / 3500W | Эрчим хүчний тайлан | Цагийн хуваарь тохируулагч"
+    },
+    "en": {
+      "name": "Smart Wi-Fi Plug with Energy Monitor",
+      "shortDesc": "Remotely switch appliances on/off and track real-time power consumption.",
+      "specs": "Max Load: 16A / 3500W | Real-time kWh tracking | Timer & Schedule"
+    }
+  },
+  {
+    "id": "curtain-robot",
+    "category": "home",
+    "price": 165000,
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Автомат хөшигний ухаалаг мотор",
+      "shortDesc": "Энгийн хөшигний зам дээр 30 секундэд суурилуулах цэнэглэдэг мотор.",
+      "specs": "Батерей: 4000mAh (6 сар цэнэгээ барина) | Гэрлийн мэдрэгчтэй | Bluetooth / Wi-Fi"
+    },
+    "en": {
+      "name": "Smart Automatic Curtain Robot",
+      "shortDesc": "Install on your existing curtain track in 30 seconds without tools.",
+      "specs": "Battery: 4000mAh (6 months standby) | Built-in Light Sensor | App & Voice Control"
+    }
+  },
+  {
+    "id": "smart-door-lock",
+    "category": "home",
+    "price": 390000,
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Хурууны хээтэй ухаалаг цоож",
+      "shortDesc": "Хурууны хээ, нууц код, IC карт болон гар утсаар онгойх аюулгүй цоож.",
+      "specs": "Тайлах хурд: 0.3 сек | 100 хурууны хээ хадгална | Түр нууц үг үүсгэх боломжтой"
+    },
+    "en": {
+      "name": "Biometric Fingerprint Smart Door Lock",
+      "shortDesc": "Unlock via fingerprint, PIN code, IC card, or mobile app with temporary guest codes.",
+      "specs": "Unlock Speed: 0.3s | 100 Fingerprints | Auto-lock & Tamper Alarm"
+    }
+  },
+  {
+    "id": "car-dashcam-4k",
+    "category": "car",
+    "price": 245000,
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "4K Ultra HD Автомашины хар хайрцаг (Dashcam)",
+      "shortDesc": "Шөнийн хараа сайтай, зогсоолын 24 цагийн хяналт болон Wi-Fi холболттой камер.",
+      "specs": "Нягтаршил: 4K (3840x2160) | Өргөн өнцөг: 170° | G-Sensor доргилт мэдрэгч"
+    },
+    "en": {
+      "name": "4K Ultra HD Car Dashcam with Night Vision",
+      "shortDesc": "Crystal clear 4K recording with 24h parking surveillance and instant Wi-Fi download.",
+      "specs": "Resolution: 4K UHD | FOV: 170° Wide Angle | Built-in GPS & G-Sensor"
+    }
+  },
+  {
+    "id": "car-wireless-charger",
+    "category": "car",
+    "price": 75000,
+    "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Автомат хавчаартай утасгүй цэнэглэгч (15W)",
+      "shortDesc": "Утас ойртуулахад өөрөө нээгдэж хаагддаг хурдан цэнэглэгчтэй тогтоогч.",
+      "specs": "Хурд: 15W Qi Fast Charge | Оролт: Type-C | Агааржуулагч болон шилэнд тогтоно"
+    },
+    "en": {
+      "name": "Auto-Clamping 15W Wireless Car Charger",
+      "shortDesc": "Infrared sensor automatically opens and secures your phone with 15W fast wireless charging.",
+      "specs": "Output: 15W Qi Fast Charge | Port: USB-C | Air Vent & Suction Mount"
+    }
+  },
+  {
+    "id": "car-tire-inflator",
+    "category": "car",
+    "price": 115000,
+    "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Утасгүй дижитал дугуй хийлэгч насос",
+      "shortDesc": "Даралт тохируулахад автоматаар зогсдог, LED гэрэлтэй авсаархан насос.",
+      "specs": "Даралт: 150 PSI | Батерей: 6000mAh | Powerbank болгон ашиглах боломжтой"
+    },
+    "en": {
+      "name": "Portable Digital Cordless Tire Inflator",
+      "shortDesc": "Auto shut-off at preset pressure with digital LCD gauge and emergency LED flashlight.",
+      "specs": "Max Pressure: 150 PSI | Battery: 6000mAh | USB Powerbank Output"
+    }
+  },
+  {
+    "id": "car-hud-display",
+    "category": "car",
+    "price": 95000,
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=600&q=80",
+    "mn": {
+      "name": "Машины шилэн дээр тусгагч дэлгэц (OBD2 HUD)",
+      "shortDesc": "Хурд, хөдөлгүүрийн эргэлт, усны температурыг урд шилэн дээр шууд харуулна.",
+      "specs": "Холболт: OBD2 + GPS | Хурд хэтрүүлэх дохиолол | Автомат гэрэл тохируулга"
+    },
+    "en": {
+      "name": "Smart OBD2 + GPS Head-Up Display (HUD)",
+      "shortDesc": "Projects real-time speed, RPM, and coolant temperature directly onto your windshield.",
+      "specs": "Dual System: OBD2 + GPS | Overspeed Warning | Auto-Brightness Sensor"
+    }
+  }
+]
